@@ -5,3 +5,6 @@ provider "aws" {
 resource "aws_accessanalyzer_analyzer" "nv" {
   
 }
+
+
+resource " new thins"
